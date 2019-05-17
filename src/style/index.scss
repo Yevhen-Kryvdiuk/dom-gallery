@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+}
+
+.main {
+  border: 1px solid gray;
+  width: 550px;
+  padding: 5px;
+}
+.largeImg {
+  width: 550px;
+  height: 400px;
+}
+
+.thumbs {
+  border: 1px solid gray;
+  width: 100px;
+  height: 100px;
+  padding: 3px;
+  margin: 2px;
+}
+
+.bottom-img {
+  display: flex;
+  flex-direction: row;
+}
